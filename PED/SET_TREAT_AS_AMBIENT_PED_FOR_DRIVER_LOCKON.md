@@ -1,0 +1,15 @@
+---
+ns: PED
+aliases: ["0x2F3C3D9F50681DE4", "0xCC9D7F1A"]
+---
+## SET_TREAT_AS_AMBIENT_PED_FOR_DRIVER_LOCKON
+
+```c
+// 0x2F3C3D9F50681DE4 0xCC9D7F1A
+void SET_TREAT_AS_AMBIENT_PED_FOR_DRIVER_LOCKON(Ped ped, BOOL p1);
+```
+
+
+## Parameters
+* **ped**: 
+* **p1**:
